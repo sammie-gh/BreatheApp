@@ -3,4 +3,4 @@
 
 
  # Screens 
- ![](immage/one.jpg)
+ ![](images/one.jpg)
